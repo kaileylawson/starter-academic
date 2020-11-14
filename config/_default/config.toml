@@ -9,7 +9,7 @@
 title = "Academic"
 
 # The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+# End your URL with a `/` trailing slash, e.g. `https://loving-borg-ee21df.netlify.app/`.
 baseurl = ""
 
 # Enter a copyright notice to display in the site footer.

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Teaching Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Instructor"
+  company = "UC Davis, Department of Psychology"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Davis, California"
+  date_start = "2020-08-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  - Personality Psychology (1 quarter) - Teaching Effectiveness: 4.8/5
   """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
+  [[experience]]
+  title = "Co-Instructor"
+  company = "UC Davis, Department of Psychology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Davis, California"
+  date_start = "2019-09-01"
+  date_end = "2020-06-01"
+  description = """
+  - Personality Psychology (1 quarter) - Teaching Effectiveness: 4.8/5
+  - Seminar on Adolescent Development (1 quarter)
+  
+  """
+
+  [[experience]]
+  title = "Teaching Assistant"
+  company = "UC Davis, Department of Psychology"
+  company_url = ""
+  location = "Davis, California"
+  date_start = "2017-09-01"
+  date_end = ""
+  description = """
+  - Personality Psychology (3 quarters)
+  - General Psychology (1 quarter)
+  - Social and Personality Development (1 quarter)
+  
+  """
 
 +++
