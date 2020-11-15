@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.com/citations?user=9iPpRgsAAAAJ&hl=en
 - icon: box-open
   icon_pack: fas
-  link: osf.io/mjgst
+  link: https://osf.io/mjgst
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
