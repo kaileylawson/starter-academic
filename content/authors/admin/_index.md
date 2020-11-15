@@ -14,10 +14,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include personality development, associations between personality and life outcomes, and measurement.
 
 interests:
 - Personality development
+- Personality predictors of life outcomes
 - Personality and psychopathology
 - Longitudinal methods
 - Measurement
@@ -41,21 +42,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kmlawson@ucdavis.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:kmlawson@ucdavis.edu'  # For a direct email link, use "mailto:test@example.org". 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/KaileyLawson
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=9iPpRgsAAAAJ&hl=en
-- icon: science
-  icon_pack: fab
+- icon: box-open
+  icon_pack: fas
   link: osf.io/mjgst
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "kmlawson@ucdavis.edu"
@@ -65,9 +66,13 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Kailey Lawson is a doctoral candidate in Social-Personality Psychology at the University of California, Davis.
+I am a doctoral candidate in Social-Personality Psychology at the University of California, Davis. 
+
+I graduated from Pomona College in Claremont, CA in 2017 with Bachelor’s degrees in Cognitive Science and Philosophy. 
+
+My research examines personality development across the lifespan and associations with life outcomes. I have a particular interest in measurement and longitudinal methods. 
